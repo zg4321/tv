@@ -37,10 +37,6 @@ CCTV-17
 ☘️重庆频道,#genre#
 重庆新闻
 重庆卫视
-重庆影视
-重庆娱乐
-重庆时尚
-重庆科教
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$!线路1
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$!线路1
 江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$!线路1
@@ -48,8 +44,6 @@ CCTV-17
 武隆综合,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd$!线路1
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd$!线路1
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd$!线路1
-重庆时尚购物
-
 
 🌊港·澳·台,#genre#
 凤凰中文
@@ -93,21 +87,16 @@ iHOT爱体育
 广东体育
 五星体育
 红牛运动
-求索科学
-求索生活
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$!线路1
+求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 求索纪录
-精品纪录
-iHOT爱历史
-iHOT爱旅行
+精品纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8$!线路1
+iHOT爱历史,id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281$!线路1
+iHOT爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 环球旅游
 游戏风云
-游戏竞技
-电竞游戏
-海看电竞
-电竞天堂
-爱电竞
-哒啵赛事
-哒啵电竞
+哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$!线路1
+哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 
 
 🎵广播,#genre#

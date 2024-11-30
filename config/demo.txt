@@ -17,7 +17,10 @@ CCTV-14,http://43.138.11.122/cq/yh.php?id=G_CCTV-14-CQ$!线路1
 CCTV-15,http://43.138.11.122/cq/yh.php?id=G_CCTV-15-CQ$!线路1
 CCTV-16,http://43.138.11.122/cq/yh.php?id=G_CCTV-16-CQ$!线路1
 CCTV-17,http://43.138.11.122/cq/yh.php?id=G_CCTV-17-CQ$!线路1
-金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
+CCTV-风云剧场
+CCTV-怀旧剧场
+CCTV-文化精品
+
 
 📡卫视频道,#genre#
 重庆卫视
@@ -33,6 +36,8 @@ CCTV-17,http://43.138.11.122/cq/yh.php?id=G_CCTV-17-CQ$!线路1
 江苏卫视
 深圳卫视
 天津卫视
+北京新闻
+金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
 
 ☘️重庆频道,#genre#
 重庆新闻
@@ -97,7 +102,8 @@ iHOT爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 游戏风云
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$!线路1
 哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281$!线路1
-
+MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8$!线路1
+AMC音乐,https://AMChls.wns.live/hls/stream.m3u8$!线路1
 
 🎵广播,#genre#
 亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8$!线路1

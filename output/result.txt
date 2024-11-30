@@ -207,6 +207,9 @@ CCTV-17,http://60.255.240.247:8090/live/CCTV-17_4000.m3u8$订阅源
 重庆时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129$订阅源
 
 🌊港·澳·台,#genre#
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源-1280x720
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源-960x540
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13$线路1

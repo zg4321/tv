@@ -24,7 +24,6 @@ CCTV-3,http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1
 CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://221.221.167.14:8888/rtp/239.3.1.172:8001
 CCTV-3,http://221.221.162.225:8888/rtp/239.3.1.172:8001
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -114,7 +113,6 @@ CCTV-17,http://115.60.241.249:2000/rtp/225.1.4.226:2506
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.196.191.248:5555/rtp/239.3.1.122:8160
 重庆卫视,http://221.221.167.14:8888/rtp/239.3.1.122:8160
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 湖南卫视,http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://220.249.114.102:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -1,5 +1,5 @@
 📺央视频道,#genre#
-CCTV-13
+CCTV-13,http://43.138.11.122/cq/yh.php?id=G_CCTV-13-CQ$!线路1
 CCTV-1
 CCTV-2
 CCTV-3

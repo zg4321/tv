@@ -5,7 +5,7 @@ CCTV-2,http://43.138.11.122/cq/yh.php?id=G_CCTV-2-CQ$!线路1
 CCTV-3,http://43.138.11.122/cq/yh.php?id=G_CCTV-3-CQ$!线路1
 CCTV-4,http://43.138.11.122/cq/yh.php?id=G_CCTV-4-CQ$!线路1
 CCTV-5,http://43.138.11.122/cq/yh.php?id=G_CCTV-5-CQ$!线路1
-CCTV-5+,http://43.138.11.122/cq/yh.php?id=G_CCTV-5+-CQ$!线路1
+CCTV-5+
 CCTV-6,http://43.138.11.122/cq/yh.php?id=G_CCTV-6-CQ$!线路1
 CCTV-7,http://43.138.11.122/cq/yh.php?id=G_CCTV-7-CQ$!线路1
 CCTV-8,http://43.138.11.122/cq/yh.php?id=G_CCTV-8-CQ$!线路1

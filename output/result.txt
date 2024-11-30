@@ -207,9 +207,22 @@ CCTV-17,http://60.255.240.247:8090/live/CCTV-17_4000.m3u8$订阅源
 重庆时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129$订阅源
 
 🌊港·澳·台,#genre#
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$组播源
+凤凰中文,http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$组播源
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$组播源
+凤凰资讯,http://60.164.128.167:8029/rtp/239.255.30.70:8231$组播源
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$订阅源
+凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源
+凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231$组播源
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8$订阅源
+凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源-1280x720
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源-960x540
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13$线路1

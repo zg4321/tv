@@ -21,11 +21,11 @@ CCTV-风云剧场
 CCTV-怀旧剧场
 CCTV-文化精品
 
-
 📡卫视频道,#genre#
-重庆卫视
 湖南卫视
+重庆卫视
 北京卫视
+北京新闻
 浙江卫视
 东方卫视
 广东卫视
@@ -36,8 +36,6 @@ CCTV-文化精品
 江苏卫视
 深圳卫视
 天津卫视
-北京新闻
-
 
 ☘️重庆频道,#genre#
 重庆新闻
@@ -50,7 +48,7 @@ CCTV-文化精品
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd$!线路1
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd$!线路1
 
-🌊港·澳·台,#genre#
+🌊港·澳·台·国际,#genre#
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -81,12 +79,11 @@ TVBS亚洲
 半岛电视台,https://epg.pw/stream/0b732899375b36eab58d7a77b4943066b480d947237f75d07721b3a87fbd4065.m3u8$!线路1
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
 
-
-🏀数字频道,#genre#
-军事评论,http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8$!线路1
+🏀数字·体育频道,#genre#
 游戏风云
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$!线路1
 哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281$!线路1
+军事评论,http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8$!线路1
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 求索纪录
@@ -94,15 +91,14 @@ TVBS亚洲
 iHOT爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 iHOT爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281$!线路1
 环球旅游
+爱体育
 红牛运动
 体育赛事
 劲爆体育
-iHOT爱体育
 超级体育
 精品体育
 广东体育
 五星体育
-
 
 🎵广播,#genre#
 亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8$!线路1
@@ -111,10 +107,10 @@ HITFM国际流行音乐,https://sk.cri.cn/887.m3u8$!线路1
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8$!线路1
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8$!线路1
 经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8$!线路1
-重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8$!线路1
-重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$!线路1
-重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8$!线路1
-重庆交通广播,http://live.xmcdn.com/live/130/64.m3u8$!线路1
 北京交通广播,http://live.xmcdn.com/live/93/64.m3u8$!线路1
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8$!线路1
+重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8$!线路1
+重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8$!线路1
+重庆交通广播,http://live.xmcdn.com/live/130/64.m3u8$!线路1
+重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$!线路1
 中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8$!线路1

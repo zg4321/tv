@@ -70,7 +70,7 @@ TVBS-新聞台
 無線衛星新聞台
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001$!线路1
 民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003$!线路1
-民視,rtmp://f13h.mine.nu/sat/tv051$!线路1
+民視,http://litv.zapi.us.kg/?id=4gtv-4gtv002$!线路1
 台視,rtmp://f13h.mine.nu/sat/tv071$!线路1
 崋視,rtmp://f13h.mine.nu/sat/tv111$!线路1
 中視,rtmp://f13h.mine.nu/sat/tv091$!线路1

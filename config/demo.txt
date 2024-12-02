@@ -44,7 +44,7 @@ CCTV-文化精品
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$!线路1
 江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$!线路1
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8$!线路1
-武隆综合,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd$!线路1
+武隆综合
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd$!线路1
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd$!线路1
 

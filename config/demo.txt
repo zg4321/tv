@@ -79,9 +79,6 @@ CCTV17
 TVBS新聞台
 无线新闻
 寰宇新聞台
-台视,rtmp://f13h.mine.nu/sat/tv071$!线路1
-华视,rtmp://f13h.mine.nu/sat/tv111$!线路1
-中视,rtmp://f13h.mine.nu/sat/tv091$!线路1
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$!线路1
 TVB明珠台
 星空卫视

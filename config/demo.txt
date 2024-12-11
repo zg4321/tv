@@ -95,7 +95,6 @@ TVBS亚洲
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!线路1
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
-Love Nature,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8$!线路1
 金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
 
